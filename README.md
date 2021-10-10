@@ -11,9 +11,13 @@ In this weeks, homework my goal was to replace non semantic elements with semant
         - assigned a <section> tag to athe sidebar
         - assigned each one of the subsections as <aside>
         - replaced <div class="footer"> with <footer>
+        -adjusted indentation and added spacing
 
     Below is a summary of all my changes to the CSS doc
         - updated original class callouts to refer to new semantic HTML elements
         -consolidated redundant blocks of code
 
+Link
+https://kam-mivehchi.github.io/Homework-1/
 
+Screenshot
