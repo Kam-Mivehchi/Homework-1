@@ -1,4 +1,4 @@
-# Homework-1
+# HTML Refactoring
 ![image](https://user-images.githubusercontent.com/90432404/136686813-9cf92f51-a39b-45c0-88eb-b48db6cf749c.png)
 
 ## Description
