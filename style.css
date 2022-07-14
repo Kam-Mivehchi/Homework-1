@@ -7,6 +7,7 @@
 body {
     background-color: #d9dcd6;
 }
+
 /* changed selector to reflect html changes*/
 header {
     padding: 20px;
@@ -14,12 +15,14 @@ header {
     background-color: #2a607c;
     color: #ffffff;
 }
+
 /* changed selector to reflect html changes*/
 header h1 {
     display: inline-block;
     font-size: 48px;
-    
+
 }
+
 /* change text color by using class selctor*/
 .seo {
     color: #d9dcd6;
@@ -34,6 +37,7 @@ nav {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     font-size: 20px;
 }
+
 /* changed selector to reflect html changes*/
 nav ul li {
     display: inline-block;
@@ -48,6 +52,7 @@ a {
 p {
     font-size: 16px;
 }
+
 /* changed selector to reflect html changes*/
 figure {
     height: 800px;
@@ -73,6 +78,7 @@ main {
     display: inline-block;
     margin-left: 20px;
 }
+
 /* changed element name*/
 section {
     margin-right: 20px;
@@ -84,22 +90,26 @@ section {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: #2589bd;
 }
+
 /* grouped all the side bar headings , added bottom margin, change color to white*/
 aside {
     margin-bottom: 32px;
     color: #ffffff;
 }
+
 /* grouped all the side bar text and changed the syle on all with one block of code*/
 aside h3 {
     margin-bottom: 10px;
     text-align: center;
 }
+
 /* grouped all the side bar images and changed the syle on all with one block of code*/
 aside img {
     display: block;
     margin: 10px auto;
     max-width: 150px;
 }
+
 /* reduced 3 style blocks into one by refering to article selector*/
 article {
     margin-bottom: 20px;
@@ -109,15 +119,18 @@ article {
     background-color: #0072bb;
     color: #ffffff;
 }
+
 /* consolidated the img id selectors to refer to elements and reduce redundancy*/
 article img {
     max-height: 200px;
 }
+
 /* consolidated the id selectors to refer to elements and reduce redundancy*/
 article h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }
+
 /* replace footer id with footer element tag*/
 footer {
     padding: 30px;
