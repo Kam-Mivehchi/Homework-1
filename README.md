@@ -3,7 +3,7 @@
 ## Description
 Symantic HTML landing page for a fictional marketing company. Improved SEO and accessability with semantic HTML. Improved performance by consolidating the CSS and reducing file size.
 
-## Screenshot
+
 ![image](https://user-images.githubusercontent.com/90432404/136686813-9cf92f51-a39b-45c0-88eb-b48db6cf749c.png)
 
 ## License
